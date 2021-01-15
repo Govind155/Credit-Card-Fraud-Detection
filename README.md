@@ -1,9 +1,5 @@
 # Credit-Card-Fraud-Detection
-The challenge is to recognize fraudulent credit card transactions so that the customers of credit card companies are not charged for items that they did not purchase.
-
-# Description
-
-## Context
+ 
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
 ## Dataset 
